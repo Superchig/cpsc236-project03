@@ -2,3 +2,6 @@
 Christopher Chang
 
 2344338
+
+## References
+I used https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html to load in a new scene.

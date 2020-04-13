@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 9195420382386708724}
   - component: {fileID: 9195420382386708725}
   - component: {fileID: 9195420382386708722}
+  - component: {fileID: 2682672353281613489}
   m_Layer: 0
   m_Name: Gemstone - Purple
   m_TagString: Untagged
@@ -159,3 +160,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pickupClip: {fileID: 8300000, guid: fd2e66a7c7ff5be4a9a539ef60554ca0, type: 3}
+--- !u!114 &2682672353281613489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9195420382386708728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f26315ddfe0cec04c9576445d2c9256f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsMod: 5
